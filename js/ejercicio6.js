@@ -15,9 +15,9 @@ Output: 58
 
 function calcperimetro(pladoA, pladoB)
 {
-    let perimetro = parseFloat(perimetro)
-     perimetro = 2 * (pladoA + pladoB)
-    return perimetro;
+    let perimetro 
+    perimetro = 2 * (pladoA + pladoB);
+    return perimetro.toFixed(2);
    
 }
 
